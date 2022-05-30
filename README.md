@@ -59,3 +59,8 @@ Assistant Skills :
     •	Answers in general questions (via call Wolfram API)
     •	Easy voice-command customization
     •	Configurable assistant name ,etc
+    
+    
+    ![Alt text](https://github.com/dkokane0/Chatbot-for-customer-support/blob/main/output/output.PNG)
+    ![Alt text](https://github.com/dkokane0/Chatbot-for-customer-support/blob/main/output/output.PNG)
+    ![Alt text](https://github.com/dkokane0/Chatbot-for-customer-support/blob/main/output/output.PNG)
