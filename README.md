@@ -64,7 +64,7 @@ Assistant Skills :
 ![Alt text](https://github.com/dkokane0/Ai-Voice-Assistant/blob/main/images/basic_workflow.jpg)
 
 ##  Decision Model
-![Alt text](https://github.com/dkokane0/Ai-Voice-Assistant/blob/main/images/decision_model.jpg)
+![Alt text](https://github.com/dkokane0/Ai-Voice-Assistant/blob/main/images/decision_model.png)
 
 ## Detailed Workflow
 ![Alt text](https://github.com/dkokane0/Ai-Voice-Assistant/blob/main/images/detailed_workflow.jpg)
