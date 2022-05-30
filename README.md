@@ -60,7 +60,11 @@ Assistant Skills :
     •	Easy voice-command customization
     •	Configurable assistant name ,etc
     
-    
-    ![Alt text](https://github.com/dkokane0/Chatbot-for-customer-support/blob/main/output/output.PNG)
-    ![Alt text](https://github.com/dkokane0/Chatbot-for-customer-support/blob/main/output/output.PNG)
-    ![Alt text](https://github.com/dkokane0/Chatbot-for-customer-support/blob/main/output/output.PNG)
+##  Basic Workflow
+![Alt text](https://github.com/dkokane0/Ai-Voice-Assistant/blob/main/images/basic_workflow.jpg)
+
+##  Decision Model
+![Alt text](https://github.com/dkokane0/Ai-Voice-Assistant/blob/main/images/decision_model.jpg)
+
+## Detailed Workflow
+![Alt text](https://github.com/dkokane0/Ai-Voice-Assistant/blob/main/images/detailed_workflow.jpg)
