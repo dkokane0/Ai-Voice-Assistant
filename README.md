@@ -68,3 +68,22 @@ Assistant Skills :
 
 ## Detailed Workflow
 ![Alt text](https://github.com/dkokane0/Ai-Voice-Assistant/blob/main/images/detailed_workflow.jpg)
+
+
+
+## OUTPUT
+![Alt text](https://github.com/dkokane0/Ai-Voice-Assistant/blob/main/images/run_project.PNG)
+
+
+![Alt text](https://github.com/dkokane0/Ai-Voice-Assistant/blob/main/images/output.PNG)
+
+
+![Alt text](https://github.com/dkokane0/Ai-Voice-Assistant/blob/main/images/change_assistant_name.PNG)
+
+
+![Alt text](https://github.com/dkokane0/Ai-Voice-Assistant/blob/main/images/output_complete.png)
+
+
+
+
+
