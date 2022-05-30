@@ -32,28 +32,30 @@ Instraction (windows only)
 5. python main.py
 
 
-**Dependencies and requirements :
+Dependencies and requirements :
 System requirements: Python 3.9, Visual Studio Code
 Install all these python libraries:
-pip install SpeechRecognition
-pip install wikipedia
-pip install pyautogui
-pip install webbrowser
-pip install os
-pip install winshell
-pip install pyttsx3
-pip install datetime
-**
+            
+            pip install SpeechRecognition
+            pip install wikipedia
+            pip install pyautogui
+            pip install webbrowser
+            pip install os
+            pip install winshell
+            pip install pyttsx3
+            pip install datetime
+
 
 Features :
 Assistant Skills :
-•	Tells the internet availability (e.g 'is the internet connection ok?')
-•	Tells the daily news (e.g 'tell me today news')
-•	Opens windows applications (e.g 'open chrome/firefox')
-•	Tells everything it can do
-•	Tells the current Time
-•	Assistant Features
-•	Asynchronous command execution & speech recognition and interpretation
-•	Answers in general questions (via call Wolfram API)
-•	Easy voice-command customization
-•	Configurable assistant name ,etc
+
+    •	Tells the internet availability (e.g 'is the internet connection ok?')
+    •	Tells the daily news (e.g 'tell me today news')
+    •	Opens windows applications (e.g 'open chrome/firefox')
+    •	Tells everything it can do
+    •	Tells the current Time
+    •	Assistant Features
+    •	Asynchronous command execution & speech recognition and interpretation
+    •	Answers in general questions (via call Wolfram API)
+    •	Easy voice-command customization
+    •	Configurable assistant name ,etc
